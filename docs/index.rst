@@ -7,6 +7,7 @@ MolSSI Guidelines, Checklists and Best Practices
     :hidden:
 
     guidelines/index
+    acknowledgements
 
 Indices and tables
 ==================
