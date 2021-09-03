@@ -3,6 +3,7 @@
 *****************
 MolSSI Guidelines
 *****************
+The following list summarizes the list of available MolSSI guidelines.
 
 .. toctree::
     :maxdepth: 5
