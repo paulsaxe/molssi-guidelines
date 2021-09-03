@@ -65,7 +65,7 @@ corresponding to each repository, Zenodo starts tracking its changes and creates
 Zenodo publishes the source files whenever a new release is pushed on GitHub.
 
 By default, Zenodo uses metadata from each GitHub release to populate its main publication page. For example, the name of the authors
-are extracted from the list of contributors from the repository etc. . The default behavior can be modified using the `.zenodo.json` 
+are extracted from the list of contributors from the repository *etc.* . The default behavior can be modified using the `.zenodo.json` 
 script that should be placed in the root directory of the source GitHub repository. For further details, please refer to Zenodo’s 
 developer guide and documentation.
 
